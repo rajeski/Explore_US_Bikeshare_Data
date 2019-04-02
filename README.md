@@ -1,4 +1,4 @@
-# The basis of this project used Udacity-provided Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
+# The basis of this project used Udacity-provided data including Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
 
 # Bitwise Operators -
 
