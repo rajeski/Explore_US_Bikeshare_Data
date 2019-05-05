@@ -1,89 +1,89 @@
-# The basis of this project used Udacity-provided data including Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
+--- The basis of this project used Udacity-provided data including Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
 
-# Bitwise Operators -
+--- Bitwise Operators -
 
-# https://wiki.python.org/moin/BitwiseOperators
+--- https://wiki.python.org/moin/BitwiseOperators
 
-# Built-in exceptions
+--- Built-in exceptions
 
-# https://docs.python.org/3/library/exceptions.html#bltin-exceptions
+--- https://docs.python.org/3/library/exceptions.html#bltin-exceptions
 
-# Common String Operations -
+--- Common String Operations -
 
-# https://docs.python.org/2/library/string.html
+--- https://docs.python.org/2/library/string.html
 
-# Doc Strings -
+--- Doc Strings -
 
-# https://www.python.org/dev/peps/pep-0257/
+--- https://www.python.org/dev/peps/pep-0257/
 
-# Errors and Exceptions -
+--- Errors and Exceptions -
 
-# https://docs.python.org/3/tutorial/errors.html
+--- https://docs.python.org/3/tutorial/errors.html
 
-# Format String Syntax -
+--- Format String Syntax -
 
-# https://docs.python.org/3.6/library/string.html#format-string-syntax
+--- https://docs.python.org/3.6/library/string.html#format-string-syntax
 
-# Google -
+--- Google -
 
-# https://www.google.com/
+--- https://www.google.com/
 
-# GitHub -
+--- GitHub -
 
-# https://github.com/
+--- https://github.com/
 
-# How George Boole’s zeroes and ones changed the world -
+--- How George Boole’s zeroes and ones changed the world -
 
-# https://www.irishtimes.com/news/science/how-george-boole-s-zeroes-and-ones-changed-the-world-1.2014673
+--- https://www.irishtimes.com/news/science/how-george-boole-s-zeroes-and-ones-changed-the-world-1.2014673
 
-# Interpreter -
+--- Interpreter -
 
-# https://ipython.org/ipython-doc/3/interactive/tutorial.html
+--- https://ipython.org/ipython-doc/3/interactive/tutorial.html
 
-# Numpy Reference -
+--- Numpy Reference -
 
-# https://docs.scipy.org/doc/numpy/reference/
+--- https://docs.scipy.org/doc/numpy/reference/
 
-# Python -
+--- Pandas Data Analysis Library -
 
-# https://www.python.org/
+--- https://pandas.pydata.org/
 
-# Pandas Data Analysis Library -
+--- Python -
 
-# https://pandas.pydata.org/
+--- https://www.python.org/
 
-# Python Formatter -
+--- Python Formatter -
 
-# https://pythoniter.appspot.com/
+--- https://pythoniter.appspot.com/
 
-# Reading Writing Files -
+--- Reading Writing Files -
 
-# https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+--- https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 
-# Reserved Words -
+--- Reserved Words -
 
-# https://pentangle.net/python/handbook/node52.html
+--- https://pentangle.net/python/handbook/node52.html
 
-# Stack Over Flow -
+--- Stack Over Flow -
 
-# https://stackoverflow.com/
+--- https://stackoverflow.com/
 
-# Star Split -
+--- Star Split -
 
-# https://docs.python.org/3/library/stdtypes.html#str.split
+--- https://docs.python.org/3/library/stdtypes.html#str.split
 
-# String Methods -
+--- String Methods -
 
-# https://docs.python.org/3/library/stdtypes.html#string-methods
+--- https://docs.python.org/3/library/stdtypes.html#string-methods
 
-# Style Guide for Python Code -
+--- Style Guide for Python Code -
 
-# https://www.python.org/dev/peps/pep-0008/
+--- https://www.python.org/dev/peps/pep-0008/
 
-# The Math Forum -
+--- The Math Forum -
 
-# http://mathforum.org/dr.math/faq/faq.order.operations.html
+--- http://mathforum.org/dr.math/faq/faq.order.operations.html
 
-# While Loops -
+--- While Loops -
 
-# https://wiki.python.org/moin/WhileLoop
+--- https://wiki.python.org/moin/WhileLoop
