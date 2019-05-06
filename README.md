@@ -1,4 +1,4 @@
---- Herein Python was used to analyze and text-display CSV-files so any given end-user can find out bikeshare information from three cities (Chicago, New York and/or Washington, DC) regarding various results ranging from what hour; month; route; or weekday is the most popular, etc. These and other related results are useful for inventory control and promotional campaigns to potentially increase overall bikeshare rentals and support other business-related activities. 
+--- Herein Python was used to analyze and text-display CSV-files so any given end-user can find out bikeshare information from three cities (Chicago, New York and/or Washington, DC) regarding various results ranging from what hour; month; route; or weekday is the most popular, etc. These and other related results are useful for inventory control and promotional campaigns to potentially increase overall bikeshare rentals and support other business-related activities.
 
 --- The basis of this project used Udacity-provided data including Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
 
