@@ -1,3 +1,5 @@
+--- Herein any given end-user can find out bikeshare information from three cities (Chicago, New York and/or Washington, DC) regarding various results ranging from what hour; month; route; or weekday is the most popular, etc.)
+
 --- The basis of this project used Udacity-provided data including Python, Numpy and Pandas’ links (the enclosed list is not-all-inclusive) -
 
 --- Bitwise Operators -
