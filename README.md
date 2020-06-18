@@ -1,4 +1,14 @@
-###### 1) End-user inquiry; and, 2) text-display output to find out bikeshare information for three locations (Chicago, New York City and/or Washington, DC) ranging from what hour; month; route; or weekday is the most popular. These and other related results have practical purposes for inventory control and promotional campaigns to potentially increasing overall bikeshare rentals or supporting other business-related activities.
+# Explore US Bikeshare Data 
+
+1) End-user inquiry
+2) Text-display output regarding bikeshare information for three locations (Chicago, New York City and/or Washington, DC)
+3) Options to review data include... 
+- what hour; 
+- what month; 
+- what route; and/or, 
+- weekday is the most popular. 
+
+### These and other related results have practical purposes for inventory control and promotional campaigns to potentially increasing overall bikeshare rentals or supporting other business-related activities.
 
 ###### References 
 
