@@ -10,7 +10,7 @@
 
 ### These and other related results have practical purposes for inventory control and promotional campaigns to potentially increasing overall bikeshare rentals or supporting other business-related activities.
 
-###### References 
+##### References 
 
 ###### Bitwise Operators -
 
