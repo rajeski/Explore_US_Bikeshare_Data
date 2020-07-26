@@ -1,6 +1,6 @@
 # Explore US Bikeshare Data 
 
-1) End-user inquiry
+1) A given end-user inputs an inquiry regarding relevant information petaining to planning their bikeshare usage
 2) Text-display output regarding bikeshare information for three locations (Chicago, New York City and/or Washington, DC)
 3) Options to review data include... 
 - what hour; 
