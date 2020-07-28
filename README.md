@@ -6,7 +6,7 @@
 - what hour; 
 - what month; 
 - what route; and/or, 
-- weekday is the most popular. 
+- weekday is the most popular for customers to utilize this service? 
 
 ### These and other related results have practical purposes for inventory control and promotional campaigns to potentially increasing overall bikeshare rentals or supporting other business-related activities.
 
