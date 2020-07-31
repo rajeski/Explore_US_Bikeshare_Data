@@ -8,7 +8,7 @@
 - what route; and/or, 
 - weekday is the most popular for customers to utilize this service? 
 
-### These and other related results have practical purposes for inventory control and promotional campaigns to potentially increasing overall bikeshare rentals or supporting other business-related activities.
+These and other data analysis, related-results have practical purposes for inventory control and promotional campaigns therein potentially increasing overall bikeshare rentals and/or supporting other business-related activities ranging from expansion to other locations to business forecasting.
 
 ##### References 
 
